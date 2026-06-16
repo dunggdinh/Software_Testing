@@ -120,3 +120,10 @@ Hướng phát triển tương lai:
 * Website Saucedemo là môi trường demo nên không kiểm thử bảo mật nâng cao.
 
 * Code được viết theo best practices của Cypress (Page Object chưa áp dụng).
+
+* Để tìm hiểu sâu hơn về dự án, bạn có thể tham khảo các tài liệu chi tiết sau:
+
+| Thư mục | Nội dung | Định dạng |
+| :--- | :--- | :--- |
+| **[slide/](./slide)** | Slide thuyết trình, tổng quan dự án và các điểm nhấn chính. | PPTX |
+| **[report/](./report)** | Báo cáo chi tiết về phương pháp, quá trình thực hiện và kết quả. | DOCX |
