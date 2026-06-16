@@ -1,0 +1,16 @@
+{
+  "name": "bai-thi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://www.saucedemo.com/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.16.0"
+  }
+}
